@@ -33,6 +33,8 @@ Note: Bot tokens are used to authorize API requests and carry all of your bot us
 
 2) Click Reset Token, and store the token somewhere safe
 
+
+
 Adding scopes and permissions
 
 Apps need approval from installing users to perform actions inside of Discord (like creating a slash command or adding emojis).
@@ -43,6 +45,13 @@ Apps need approval from installing users to perform actions inside of Discord (l
 
 applications.commands lets your app create commands in guilds its installed bot is to enable your bot user. After you click bot, you can also add different user permissions to the bot. For now, just check Send Messages.
 
+List of all OAuth2 Scopes https://discord.com/developers/docs/topics/oauth2#shared-resources-oauth2-scopes
+
+3) Once you add scopes, you should see a URL that you can copy to install your app.
+
+Installing your app
+
+1) Copy the URL that was generated when settings permissions (link at bottom), and paste it into your browser.
 
 
 
