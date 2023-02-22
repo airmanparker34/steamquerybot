@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Steam Query Bot for Discord Server Admins</title>
+    Steam Query Bot for Discord Server Admins
 </head>
 <body>
 
