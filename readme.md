@@ -6,6 +6,14 @@
 </head>
 <body>
 
+    
+Tools used in this project:
+    
+    +JetBrains WebStorm
+    +Node.js
+    +Discord Integration (Plugin) 
+    
+    
 External Resources: 
 
 https://discord.com/developers/docs/intro
@@ -52,6 +60,7 @@ List of all OAuth2 Scopes https://discord.com/developers/docs/topics/oauth2#shar
 Installing your app
 
 1) Copy the URL that was generated when settings permissions (link at bottom), and paste it into your browser.
+2) After installing your app, check that the bot has joined your Dicord
 
 
 
